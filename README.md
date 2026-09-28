@@ -1,27 +1,29 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="$ whoami: Fuaad Bashi, software engineer. Focus: systems programming, machine learning, full-stack web. Standards: tested, reproducible, honest about what it does.">
+  <img src="assets/header.svg" width="100%" alt="$ whoami: Fuaad B. Shurie, software engineer working in C++, Python and Java.">
+</p>
+<p>
+  Most of my work is in C++, Python and Java: market-data replay and real-time audio in C++,
+  backend services in Python and Java, and machine learning in Python. I'm a co-author of a
+  published conference paper on medical named-entity recognition (ICACIn), which draws on the
+  clinical de-identification project below.
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,ts,react,nextjs,fastapi,spring,postgres,pytorch,tensorflow,cmake,githubactions,terraform&perline=15" alt="C++, C, Python, Java, TypeScript, React, Next.js, FastAPI, Spring, PostgreSQL, PyTorch, TensorFlow, CMake, GitHub Actions, Terraform">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,ts,nextjs,fastapi,spring,postgres,pytorch,cmake,githubactions,terraform&perline=13" alt="C++, C, Python, Java, TypeScript, Next.js, FastAPI, Spring, PostgreSQL, PyTorch, CMake, GitHub Actions, Terraform">
 </p>
-<h3>⭐ Featured work</h3>
+<h3>Selected projects</h3>
 <p align="center">
-  <a href="https://github.com/FuaadBashi/Trading-Engine"><img src="assets/trading-engine.svg" width="49%" alt="L3 Trading Engine: deterministic C++20 order-book replay; 0 of 4,533 book levels differ from the venue."></a>
-  <a href="https://github.com/FuaadBashi/Budgeting-App"><img src="assets/finance-os.svg" width="49%" alt="Personal Finance OS: ledger-first finance app; 920 tests, money never touches a float."></a>
-  <a href="https://github.com/FuaadBashi/cctv-person-reidentification"><img src="assets/cctv-reid.svg" width="49%" alt="CCTV Re-Identification: stable identities across occlusion; every identity decision logged with its reason."></a>
-  <a href="https://github.com/FuaadBashi/Premier-League-Outcome-Predictor"><img src="assets/premier-league.svg" width="49%" alt="Premier League Predictor: 53.5% accuracy against a 39.2% baseline on an unseen season."></a>
-  <a href="https://github.com/FuaadBashi/Stock-Managment-app-CRUD"><img src="assets/stock-api.svg" width="49%" alt="Stock Management API: Java 21 and Spring Boot; 21 integration tests on H2 and PostgreSQL."></a>
-  <a href="https://github.com/FuaadBashi/speech-to-text-AI-models-for-the-Somali-language"><img src="assets/somali-asr.svg" width="49%" alt="Somali Speech Recognition: speech-to-text fine-tuning for a low-resource language, with Terraform infrastructure."></a>
+  <a href="https://github.com/FuaadBashi/Trading-Engine"><img src="assets/trading-engine.svg" width="49%" alt="L3 Trading Engine (C++20): rebuilds Bitstamp's order-by-order book from recorded market data and replays it deterministically; 0 of 4,533 levels differ from the exchange."></a>
+  <a href="https://github.com/FuaadBashi/Budgeting-App"><img src="assets/finance-os.svg" width="49%" alt="Personal Finance OS (Python): double-entry ledger in FastAPI and PostgreSQL; 920 tests, money stored as NUMERIC(19,4)."></a>
+  <a href="https://github.com/FuaadBashi/deid-comparison-pipeline"><img src="assets/deid.svg" width="49%" alt="Clinical De-identification (Python): fine-tuned BioBERT, ClinicalBERT and RoBERTa-Large; 0.977 strict F1 on a locked test; informed a co-authored paper."></a>
+  <a href="https://github.com/FuaadBashi/Stock-Managment-app-CRUD"><img src="assets/stock-api.svg" width="49%" alt="Stock Management API (Java 21): Spring Boot REST API with row-locked order transitions; 21 integration tests on H2 and PostgreSQL 17."></a>
+  <a href="https://github.com/FuaadBashi/cctv-person-reidentification"><img src="assets/cctv-reid.svg" width="49%" alt="CCTV Re-Identification (Python): YOLOv8, DeepSORT and face/body embeddings keep each person's ID through occlusion, with every decision logged."></a>
+  <a href="https://github.com/FuaadBashi/MotionWave"><img src="assets/motionwave.svg" width="49%" alt="MotionWave (C++20): audio visualiser with a lock-free ring buffer; the audio thread never waits on drawing."></a>
 </p>
-<h3>🧰 Also built</h3>
+<h3>Other projects</h3>
 <table>
-  <tr><td>🎮 <b>Games</b></td><td><a href="https://github.com/FuaadBashi/Chess-TUI">Chess</a> · <a href="https://github.com/FuaadBashi/Hnefatafl-TUI">Hnefatafl</a> · <a href="https://github.com/FuaadBashi/PokerGame">Poker</a> · <a href="https://github.com/FuaadBashi/FlappyBird">Flappy Bird</a> · <a href="https://github.com/FuaadBashi/TUI-Based-ShooterGame">Terminal shooter</a></td></tr>
-  <tr><td>🎧 <b>Graphics &amp; audio</b></td><td><a href="https://github.com/FuaadBashi/MotionWavePlus">MotionWave+</a> · <a href="https://github.com/FuaadBashi/MotionWave">MotionWave</a> · <a href="https://github.com/FuaadBashi/Sorting-Algorithm-visulaizer">Sorting visualiser</a></td></tr>
-  <tr><td>⚙️ <b>Systems in C</b></td><td><a href="https://github.com/FuaadBashi/Employee-Management-System-with-HashTable">Hash-table records</a> · <a href="https://github.com/FuaadBashi/Collective-Telephone-and-Mobile-Customer-Record-System">Telephone billing</a></td></tr>
-  <tr><td>🌐 <b>Web &amp; apps</b></td><td><a href="https://github.com/FuaadBashi/SokoPay_website">SokoPay</a> · <a href="https://github.com/FuaadBashi/TypeTrainer-JavaFX">TypeTrainer</a> · <a href="https://github.com/FuaadBashi/Text-To-Speech-Generator">Text-to-Speech</a></td></tr>
-  <tr><td>🧠 <b>ML &amp; data</b></td><td><a href="https://github.com/FuaadBashi/Animal-Image-Classifier-Cat-Dog-Fox-Prediction-with-TensorFlow">Animal classifier</a> · <a href="https://github.com/FuaadBashi/Dubai-Property-Webscraper">Dubai property scraper</a> · <a href="https://github.com/FuaadBashi/UniversalWebScraper">Universal web scraper</a></td></tr>
-  <tr><td>🧩 <b>Algorithms</b></td><td><a href="https://github.com/FuaadBashi/LeetCode-Solutions">LeetCode</a> · <a href="https://github.com/FuaadBashi/Dynamic-programming-recurrence-for-computing-minimum-sum-combinations.">DP minimum-sum combinations</a></td></tr>
+  <tr><td><b>Python</b></td><td><a href="https://github.com/FuaadBashi/speech-to-text-AI-models-for-the-Somali-language">Somali speech recognition</a> (Whisper fine-tuning, Terraform) · <a href="https://github.com/FuaadBashi/Premier-League-Outcome-Predictor">Premier League predictor</a> (53.5% vs a 39.2% baseline) · <a href="https://github.com/FuaadBashi/Animal-Image-Classifier-Cat-Dog-Fox-Prediction-with-TensorFlow">cat/dog/fox classifier</a> (TensorFlow) · <a href="https://github.com/FuaadBashi/Dubai-Property-Webscraper">Dubai property scrapers</a> · <a href="https://github.com/FuaadBashi/Sorting-Algorithm-visulaizer">sorting visualiser</a> · <a href="https://github.com/FuaadBashi/Dynamic-programming-recurrence-for-computing-minimum-sum-combinations.">minimum-sum DP</a></td></tr>
+  <tr><td><b>C++</b></td><td><a href="https://github.com/FuaadBashi/MotionWavePlus">MotionWave+</a> (raylib and miniaudio rewrite of MotionWave)</td></tr>
+  <tr><td><b>Java</b></td><td><a href="https://github.com/FuaadBashi/Chess-TUI">chess</a> · <a href="https://github.com/FuaadBashi/Hnefatafl-TUI">Hnefatafl</a> · <a href="https://github.com/FuaadBashi/PokerGame">poker</a> · <a href="https://github.com/FuaadBashi/FlappyBird">Flappy Bird</a> · <a href="https://github.com/FuaadBashi/TypeTrainer-JavaFX">TypeTrainer</a> (JavaFX) · <a href="https://github.com/FuaadBashi/TUI-Based-ShooterGame">terminal shooter</a></td></tr>
+  <tr><td><b>C</b></td><td><a href="https://github.com/FuaadBashi/Employee-Management-System-with-HashTable">hash-table employee records</a> · <a href="https://github.com/FuaadBashi/Collective-Telephone-and-Mobile-Customer-Record-System">telephone billing</a> · <a href="https://github.com/FuaadBashi/LeetCode-Solutions">LeetCode solutions</a></td></tr>
+  <tr><td><b>Web</b></td><td><a href="https://github.com/FuaadBashi/SokoPay_website">SokoPay</a> (Next.js payments prototype) · <a href="https://github.com/FuaadBashi/TinDog-WebPage">TinDog</a> (Bootstrap landing page)</td></tr>
 </table>
-<!-- Add your contact links here and delete this comment, e.g.
-<p align="center"><a href="https://www.linkedin.com/in/YOUR-HANDLE">LinkedIn</a> · <a href="mailto:YOUR-EMAIL">Email</a></p>
--->
