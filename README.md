@@ -1,50 +1,27 @@
-<h1 align="center">Hi, I'm Fuaad 👋
-</h1> <p align="center"> Software engineer working across <b>systems programming</b>, <b>machine learning</b> and <b>full-stack web</b>.<br> I build things end to end and make them correct: tested, reproducible, and honest about what they do. </p> <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,c,python,java,ts,react,nextjs,tailwind,fastapi,spring,postgres,pytorch,tensorflow,cmake,githubactions,terraform&perline=8" alt="Tech stack"> </p>
- Featured projects
-<table> <tr> <td width="50%" valign="top">
- Trading Engine
-Deterministic L3 order-book replay and execution-research engine. It reproduces the exchange's own book snapshot exactly.
-
-C++20 CMake Sanitizers GCC + Clang CI
-
-</td> <td width="50%" valign="top">
- Personal Finance OS
-Ledger-first personal finance app: double-entry accounting, budgets, goals and bank sync, with 900+ tests.
-
-Python FastAPI PostgreSQL Next.js
-
-</td> </tr> <tr> <td valign="top">
- CCTV Re-Identification
-Tracks people through video and keeps each person's identity stable, even after they're hidden and reappear.
-
-YOLOv8 DeepSORT PyTorch
-
-</td> <td valign="top">
- Somali Speech Recognition
-Speech-recognition fine-tuning for a low-resource language, with its cloud infrastructure defined in Terraform.
-
-Transformers Python Terraform
-
-</td> </tr> <tr> <td valign="top">
- Premier League Predictor
-Match-outcome model trained only on information available before kick-off. It scores 53.5% against a 39.2% baseline.
-
-pandas scikit-learn
-
-</td> <td valign="top">
- SOKOPAY
-Prototype for a cross-border payments product: marketing site, account dashboard and animated send-money flow.
-
-Next.js React TypeScript Tailwind
-
-</td> </tr> </table>
- More projects
-Area	Projects
- Games	Chess · Hnefatafl · Poker · Flappy Bird · Sorting Visualizer
- Audio	MotionWave+ (real-time visualiser, C++)
- Systems in C	Hash-table employee records · Telephone billing
- APIs & apps	Stock Management API · TypeTrainer · Text-to-Speech
- ML	Animal image classifier
- Practice	LeetCode solutions
- GitHub stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=FuaadBashi&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuaadBashi&layout=compact&hide_border=true&theme=transparent" alt="Top languages"> </p> <!-- Add your links here, e.g.: <p align="center"> <a href="https://www.linkedin.com/in/YOUR-HANDLE">LinkedIn</a> · <a href="mailto:YOUR-EMAIL">Email</a> </p> -->
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="$ whoami: Fuaad Bashi, software engineer. Focus: systems programming, machine learning, full-stack web. Standards: tested, reproducible, honest about what it does.">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,ts,react,nextjs,fastapi,spring,postgres,pytorch,tensorflow,cmake,githubactions,terraform&perline=15" alt="C++, C, Python, Java, TypeScript, React, Next.js, FastAPI, Spring, PostgreSQL, PyTorch, TensorFlow, CMake, GitHub Actions, Terraform">
+</p>
+<h3>⭐ Featured work</h3>
+<p align="center">
+  <a href="https://github.com/FuaadBashi/Trading-Engine"><img src="assets/trading-engine.svg" width="49%" alt="L3 Trading Engine: deterministic C++20 order-book replay; 0 of 4,533 book levels differ from the venue."></a>
+  <a href="https://github.com/FuaadBashi/Budgeting-App"><img src="assets/finance-os.svg" width="49%" alt="Personal Finance OS: ledger-first finance app; 920 tests, money never touches a float."></a>
+  <a href="https://github.com/FuaadBashi/cctv-person-reidentification"><img src="assets/cctv-reid.svg" width="49%" alt="CCTV Re-Identification: stable identities across occlusion; every identity decision logged with its reason."></a>
+  <a href="https://github.com/FuaadBashi/Premier-League-Outcome-Predictor"><img src="assets/premier-league.svg" width="49%" alt="Premier League Predictor: 53.5% accuracy against a 39.2% baseline on an unseen season."></a>
+  <a href="https://github.com/FuaadBashi/Stock-Managment-app-CRUD"><img src="assets/stock-api.svg" width="49%" alt="Stock Management API: Java 21 and Spring Boot; 21 integration tests on H2 and PostgreSQL."></a>
+  <a href="https://github.com/FuaadBashi/speech-to-text-AI-models-for-the-Somali-language"><img src="assets/somali-asr.svg" width="49%" alt="Somali Speech Recognition: speech-to-text fine-tuning for a low-resource language, with Terraform infrastructure."></a>
+</p>
+<h3>🧰 Also built</h3>
+<table>
+  <tr><td>🎮 <b>Games</b></td><td><a href="https://github.com/FuaadBashi/Chess-TUI">Chess</a> · <a href="https://github.com/FuaadBashi/Hnefatafl-TUI">Hnefatafl</a> · <a href="https://github.com/FuaadBashi/PokerGame">Poker</a> · <a href="https://github.com/FuaadBashi/FlappyBird">Flappy Bird</a> · <a href="https://github.com/FuaadBashi/TUI-Based-ShooterGame">Terminal shooter</a></td></tr>
+  <tr><td>🎧 <b>Graphics &amp; audio</b></td><td><a href="https://github.com/FuaadBashi/MotionWavePlus">MotionWave+</a> · <a href="https://github.com/FuaadBashi/MotionWave">MotionWave</a> · <a href="https://github.com/FuaadBashi/Sorting-Algorithm-visulaizer">Sorting visualiser</a></td></tr>
+  <tr><td>⚙️ <b>Systems in C</b></td><td><a href="https://github.com/FuaadBashi/Employee-Management-System-with-HashTable">Hash-table records</a> · <a href="https://github.com/FuaadBashi/Collective-Telephone-and-Mobile-Customer-Record-System">Telephone billing</a></td></tr>
+  <tr><td>🌐 <b>Web &amp; apps</b></td><td><a href="https://github.com/FuaadBashi/SokoPay_website">SokoPay</a> · <a href="https://github.com/FuaadBashi/TypeTrainer-JavaFX">TypeTrainer</a> · <a href="https://github.com/FuaadBashi/Text-To-Speech-Generator">Text-to-Speech</a></td></tr>
+  <tr><td>🧠 <b>ML &amp; data</b></td><td><a href="https://github.com/FuaadBashi/Animal-Image-Classifier-Cat-Dog-Fox-Prediction-with-TensorFlow">Animal classifier</a> · <a href="https://github.com/FuaadBashi/Dubai-Property-Webscraper">Dubai property scraper</a> · <a href="https://github.com/FuaadBashi/UniversalWebScraper">Universal web scraper</a></td></tr>
+  <tr><td>🧩 <b>Algorithms</b></td><td><a href="https://github.com/FuaadBashi/LeetCode-Solutions">LeetCode</a> · <a href="https://github.com/FuaadBashi/Dynamic-programming-recurrence-for-computing-minimum-sum-combinations.">DP minimum-sum combinations</a></td></tr>
+</table>
+<!-- Add your contact links here and delete this comment, e.g.
+<p align="center"><a href="https://www.linkedin.com/in/YOUR-HANDLE">LinkedIn</a> · <a href="mailto:YOUR-EMAIL">Email</a></p>
+-->
