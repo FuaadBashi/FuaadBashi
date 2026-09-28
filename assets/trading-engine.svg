@@ -1,16 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="214" viewBox="0 0 480 214" role="img" aria-label="L3 Trading Engine: Deterministic C++20 engine that rebuilds a venue's order-by-order book from market data. 0 of 4,533 book levels differ from the venue">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="226" viewBox="0 0 480 226" role="img" aria-label="L3 Trading Engine (C++20): Rebuilds Bitstamp's order-by-order (L3) book from recorded market data and replays it the same way on every run. 0 of 4,533 levels differ from the exchange.">
 <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#3fb950"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/></linearGradient>
-<clipPath id="r"><rect width="480" height="214" rx="14"/></clipPath></defs>
+<clipPath id="r"><rect width="480" height="226" rx="14"/></clipPath></defs>
 <g clip-path="url(#r)">
-<rect x=".5" y=".5" width="479" height="213" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect x=".5" y=".5" width="479" height="225" rx="14" fill="#0d1117" stroke="#30363d"/>
 <rect width="480" height="3" fill="url(#g)"/>
 </g>
-<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
-<text x="28" y="50" font-size="24">📈</text>
-<text x="64" y="49" fill="#e6edf3" font-size="20" font-weight="700">L3 Trading Engine</text>
-<text x="452" y="48" text-anchor="end" fill="#9da7b3" font-size="18">↗</text>
-<text x="28" y="88" fill="#9da7b3" font-size="15.5">Deterministic C++20 engine that rebuilds a</text><text x="28" y="111" fill="#9da7b3" font-size="15.5">venue's order-by-order book from market data.</text>
-</g>
-<text x="28" y="148" fill="#3fb950" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" font-weight="700">▸ 0 of 4,533 book levels differ from the venue</text>
-<rect x="28" y="168" width="58" height="24" rx="12" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-opacity=".45"/><text x="57" y="184.5" text-anchor="middle" fill="#3fb950" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12">C++20</text><rect x="94" y="168" width="58" height="24" rx="12" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-opacity=".45"/><text x="124" y="184.5" text-anchor="middle" fill="#3fb950" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12">CMake</text><rect x="161" y="168" width="95" height="24" rx="12" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-opacity=".45"/><text x="208" y="184.5" text-anchor="middle" fill="#3fb950" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12">Sanitizers</text><rect x="264" y="168" width="37" height="24" rx="12" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-opacity=".45"/><text x="282" y="184.5" text-anchor="middle" fill="#3fb950" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12">CI</text>
+<text x="28" y="48" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="700">L3 Trading Engine</text>
+<text x="452" y="47" text-anchor="end" fill="#3fb950" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13">C++20</text>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"><text x="28" y="82" fill="#9da7b3" font-size="15.5">Rebuilds Bitstamp's order-by-order (L3) book</text><text x="28" y="105" fill="#9da7b3" font-size="15.5">from recorded market data and replays it the</text><text x="28" y="128" fill="#9da7b3" font-size="15.5">same way on every run.</text></g>
+<text x="28" y="162" fill="#3fb950" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700">▸ 0 of 4,533 levels differ from the exchange</text>
+<rect x="28" y="180" width="58" height="24" rx="12" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-opacity=".45"/><text x="57" y="196.5" text-anchor="middle" fill="#3fb950" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12">CMake</text><rect x="94" y="180" width="124" height="24" rx="12" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-opacity=".45"/><text x="157" y="196.5" text-anchor="middle" fill="#3fb950" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12">GCC + Clang CI</text><rect x="227" y="180" width="95" height="24" rx="12" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-opacity=".45"/><text x="274" y="196.5" text-anchor="middle" fill="#3fb950" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12">ASan/UBSan</text>
 </svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="226" viewBox="0 0 480 226" role="img" aria-label="MotionWave (C++20): Audio visualiser: a decoder thread feeds the sound card through a lock-free ring buffer, and the audio thread never waits on drawing. 1M-sample ring test, clean under TSan.">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#56d4dd"/><stop offset="1" stop-color="#56d4dd" stop-opacity="0"/></linearGradient>
+<clipPath id="r"><rect width="480" height="226" rx="14"/></clipPath></defs>
+<g clip-path="url(#r)">
+<rect x=".5" y=".5" width="479" height="225" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect width="480" height="3" fill="url(#g)"/>
+</g>
+<text x="28" y="48" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="700">MotionWave</text>
+<text x="452" y="47" text-anchor="end" fill="#56d4dd" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13">C++20</text>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"><text x="28" y="82" fill="#9da7b3" font-size="15.5">Audio visualiser: a decoder thread feeds the</text><text x="28" y="105" fill="#9da7b3" font-size="15.5">sound card through a lock-free ring buffer,</text><text x="28" y="128" fill="#9da7b3" font-size="15.5">and the audio thread never waits on drawing.</text></g>
+<text x="28" y="162" fill="#56d4dd" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700">▸ 1M-sample ring test, clean under TSan</text>
+<rect x="28" y="180" width="51" height="24" rx="12" fill="#56d4dd" fill-opacity=".12" stroke="#56d4dd" stroke-opacity=".45"/><text x="54" y="196.5" text-anchor="middle" fill="#56d4dd" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12">SDL2</text><rect x="87" y="180" width="66" height="24" rx="12" fill="#56d4dd" fill-opacity=".12" stroke="#56d4dd" stroke-opacity=".45"/><text x="120" y="196.5" text-anchor="middle" fill="#56d4dd" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12">OpenGL</text><rect x="161" y="180" width="102" height="24" rx="12" fill="#56d4dd" fill-opacity=".12" stroke="#56d4dd" stroke-opacity=".45"/><text x="212" y="196.5" text-anchor="middle" fill="#56d4dd" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12">std::atomic</text>
+</svg>
