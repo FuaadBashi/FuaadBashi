@@ -8,7 +8,7 @@
   on the clinical de-identification project below.
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,ts,nextjs,fastapi,spring,postgres,pytorch,cmake,githubactions,terraform&perline=13" alt="C++, C, Python, Java, TypeScript, Next.js, FastAPI, Spring, PostgreSQL, PyTorch, CMake, GitHub Actions, Terraform">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,fastapi,spring,postgres,pytorch,cmake,githubactions,terraform&perline=13" alt="C++, C, Python, Java, TypeScript, Next.js, FastAPI, Spring, PostgreSQL, PyTorch, CMake, GitHub Actions, Terraform">
 </p>
 <h3>Selected projects</h3>
 <p align="center">
