@@ -8,12 +8,12 @@
   on the clinical de-identification project below.
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,fastapi,spring,postgres,pytorch,cmake,githubactions,terraform&perline=13" alt="C++, C, Python, Java, TypeScript, Next.js, FastAPI, Spring, PostgreSQL, PyTorch, CMake, GitHub Actions, Terraform">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,fastapi,spring,postgres,pytorch,cmake,githubactions,terraform&perline=13" alt="C++, C, Python, Java, FastAPI, Spring, PostgreSQL, PyTorch, CMake, GitHub Actions, Terraform">
 </p>
 <h3>Selected projects</h3>
 <p align="center">
   <a href="https://github.com/FuaadBashi/Trading-Engine"><img src="assets/trading-engine.svg" width="49%" alt="L3 Trading Engine (C++20): rebuilds Bitstamp's order-by-order book from recorded market data and replays it deterministically; 0 of 4,533 levels differ from the exchange."></a>
-  <a href="https://github.com/FuaadBashi/Budgeting-App"><img src="assets/finance-os.svg" width="49%" alt="Personal Finance OS (Python): double-entry ledger in FastAPI and PostgreSQL; 929 tests, money stored as NUMERIC(19,4)."></a>
+  <a href="https://github.com/FuaadBashi/Budgeting-App"><img src="assets/finance-os.svg" width="49%" alt="Personal Finance OS (Python): double-entry ledger in FastAPI and PostgreSQL; 940 tests, money stored as NUMERIC(19,4)."></a>
   <a href="https://github.com/FuaadBashi/deid-comparison-pipeline"><img src="assets/deid.svg" width="49%" alt="Clinical De-identification (Python): fine-tuned BioBERT, ClinicalBERT and RoBERTa-Large; 0.977 strict F1 on a locked test; informed a co-authored paper."></a>
   <a href="https://github.com/FuaadBashi/Stock-Managment-app-CRUD"><img src="assets/stock-api.svg" width="49%" alt="Stock Management API (Java 21): Spring Boot REST API with row-locked order transitions; 21 integration tests on H2 and PostgreSQL 17."></a>
   <a href="https://github.com/FuaadBashi/cctv-person-reidentification"><img src="assets/cctv-reid.svg" width="49%" alt="CCTV Re-Identification (Python): YOLOv8, DeepSORT and face/body embeddings keep each person's ID through occlusion, with every decision logged."></a>
